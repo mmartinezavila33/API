@@ -1,2 +1,2 @@
 # API
-Creación de una api básica
+Creación de una api básica con node y express
